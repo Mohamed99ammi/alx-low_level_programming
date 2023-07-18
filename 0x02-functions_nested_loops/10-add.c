@@ -5,7 +5,7 @@
  *
  * Return: Always 0.
  */
-int main(void)
+int main (void)
 {
 int n;
 n = add (89,9);
