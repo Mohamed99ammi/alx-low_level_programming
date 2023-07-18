@@ -1,12 +1,11 @@
 #include "main.h"
-#include <stdio.h>
 /**
  * main - entry point
- * Description Prints the alphabet in lowercase and uppercase
+ * Description: 'print _putchar using putchar prototype'
+ * return: amways 0
  */
 int main(void)
 {
-printf("_putchar\n");
 _putchar('-');
 _putchar('p');
 _putchar('u');
